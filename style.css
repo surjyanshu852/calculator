@@ -1,0 +1,40 @@
+
+@import url('http://fonts.googleapis.com/css2? family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html, body
+{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto',sans-serif;
+}
+
+.button
+{
+    padding: 10px;
+    margin: 2px 6px 20px 6px;
+    border: 1.7px solid rgb(34, 6, 6);
+    border-radius: 5px;
+    cursor: pointer;
+    width: 40px;
+    height: 47px;
+
+    box-shadow: -1px 1px 5px;
+}
+
+/* .row
+{
+    margin: 5px 0;
+} */
+
+.row input
+{
+    font-size: 23px;
+    margin: 15px 8px 27px;
+    padding: 4px 5px 4px;
+    border: 1.6px solid black;
+    border-radius: 5px;
+    height: 30px;
+    width: 210px;
+
+    box-shadow: 0.01px 0.05px 6px;
+}

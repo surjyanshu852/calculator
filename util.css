@@ -1,0 +1,53 @@
+.text-center
+{
+    text-align: center;
+    
+}
+
+.bg-red
+{
+    background: rgba(30, 211, 252, 0.988);
+    border: solid black;
+}
+
+.mx-auto
+{
+    margin: auto;
+}
+
+.m-w-20
+{
+    max-width: 270px;
+    max-height: 500px;
+    box-shadow: -2px 5px 5px ,
+                 0px 0px 20px ;
+    border-radius: 7px;
+    padding: 0px;
+}
+
+.flex 
+{
+    display: flex;
+}
+.flex-col
+{
+    flex-direction: column;
+}
+
+
+.items-center
+{
+    align-items: center;
+}
+
+*
+body
+{
+    background-color: rgb(91, 45, 178);
+}
+
+.bggg{
+    width:270px ;
+    height:65px ;
+    margin:0 0 0 50px ;
+}
